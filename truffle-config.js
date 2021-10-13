@@ -57,8 +57,8 @@ module.exports = {
     // },
     // Useful for deploying to a public network.
     // NB: It's important to wrap the provider as a function.
-    ropsten: {
-    provider: () => new HDWalletProvider(mnemonic, `https://speedy-nodes-nyc.moralis.io/0c275e5158d5a723af77685a/eth/ropsten`),
+    rinkeby: {
+    provider: () => new HDWalletProvider(mnemonic, `https://speedy-nodes-nyc.moralis.io/2d089ff4a6ab294276f8f4fe/eth/rinkeby`),
     network_id: 3,       // Ropsten's id
     gas: 5500000,        // Ropsten has a lower block limit than mainnet
     confirmations: 2,    // # of confs to wait between deployments. (default: 0)

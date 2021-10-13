@@ -1,6 +1,6 @@
 ## Truffle Tutorial 1
 
-1. Writing and compiling smart contracts
-1. Testing smart contracts
-1. Deployng contracts onto Moralis network
-1. Interacting with deployed smart contracts
+*  Writing and compiling smart contracts
+* Testing smart contracts
+* Deployng contracts onto Moralis network
+* Interacting with deployed smart contracts
